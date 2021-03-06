@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f6e079fc34165d4d87405035ef61093, type: 3}
+  m_Name: Yoyo (Single)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: a246599039b796b478018d0f864943d1, type: 2}
+    - {fileID: 11400000, guid: 3a07ba167d0bf154bbf2e3d115dc9537, type: 2}
+    - {fileID: 11400000, guid: 3eb966233200c164590ac0ddfcc6c376, type: 2}
+    - {fileID: 11400000, guid: 100aab3c6dc430f4eb8c740da5b80554, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Candidats
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[loveCandidate, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 0
+    - Name: love
+      Entry: 3
+      Data: 50
+    - Name: matchText
+      Entry: 1
+      Data: An old soul like me... I fear we'll grow complacent together.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 1
+    - Name: love
+      Entry: 3
+      Data: 10
+    - Name: matchText
+      Entry: 1
+      Data: Oh my feet... Are you sure..?
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 2
+    - Name: love
+      Entry: 3
+      Data: 75
+    - Name: matchText
+      Entry: 1
+      Data: Yes. Strong and energic. They go their own way. Good.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 3
+    - Name: love
+      Entry: 3
+      Data: 100
+    - Name: matchText
+      Entry: 1
+      Data: Yes! We will do great things together!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: preferences
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Strong.
+    - Name: $v
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Motifs.
+    - Name: $v
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Stripes.
+    - Name: $v
+      Entry: 3
+      Data: -2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Boring.
+    - Name: $v
+      Entry: 3
+      Data: -3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  noMatchText: Ha. I can fend for myself.
+  sock: {fileID: 21300000, guid: ba3f629b77596484792f55d0fcaf4cfb, type: 3}
+  Candidats:
+  - chaussette: {fileID: 11400000, guid: a246599039b796b478018d0f864943d1, type: 2}
+    love: 50
+    matchText: An old soul like me... I fear we'll grow complacent together.
+  - chaussette: {fileID: 11400000, guid: 3a07ba167d0bf154bbf2e3d115dc9537, type: 2}
+    love: 10
+    matchText: Oh my feet... Are you sure..?
+  - chaussette: {fileID: 11400000, guid: 3eb966233200c164590ac0ddfcc6c376, type: 2}
+    love: 75
+    matchText: Yes. Strong and energic. They go their own way. Good.
+  - chaussette: {fileID: 11400000, guid: 100aab3c6dc430f4eb8c740da5b80554, type: 2}
+    love: 100
+    matchText: Yes! We will do great things together!
+  tellMeMore:
+  - Hey. So you're gonna find me a pair?
+  - Yeah. I want a sock with some punch.
+  - I need somesock who can stand for themselves.
+  - Oh, I hate staying inside. I'm a sock of action.
+  - Never roll me up, please.
+  - I like it real hot. Keeps me feeling alive.
+  - I need to be free. Freedom is the most important thing.
+  - You gotta know how to fight to be free.
+  - I don't want someone too clingy.
+  - I fought in the sock wars, you know.

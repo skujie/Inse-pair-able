@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f6e079fc34165d4d87405035ef61093, type: 3}
+  m_Name: Emil (single)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 2cdb3ef3256846e4293beb304e220011, type: 2}
+    - {fileID: 11400000, guid: c07c065b7d9fe1f4ab395a6636a62675, type: 2}
+    - {fileID: 11400000, guid: a35ab9cc6579492479d0ec2231e9273e, type: 2}
+    - {fileID: 11400000, guid: cba3864ccf8e6bf4ea3010a030b67ea6, type: 2}
+    - {fileID: 11400000, guid: 46848c823423c2048a7e97f321e8b521, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Candidats
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[loveCandidate, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 0
+    - Name: love
+      Entry: 3
+      Data: 90
+    - Name: matchText
+      Entry: 1
+      Data: Oohh, look at him. An adventurer by my own heart.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 1
+    - Name: love
+      Entry: 3
+      Data: 70
+    - Name: matchText
+      Entry: 1
+      Data: What an absolutely fabulous piece of fabric... Dazzling.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 2
+    - Name: love
+      Entry: 3
+      Data: 40
+    - Name: matchText
+      Entry: 1
+      Data: Hmm. I'm not sure... But they are strong of character.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 3
+    - Name: love
+      Entry: 3
+      Data: 100
+    - Name: matchText
+      Entry: 1
+      Data: OH MY FEET! What a gorgeous, incredibly cool, wonderful sock!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 4
+    - Name: love
+      Entry: 3
+      Data: 80
+    - Name: matchText
+      Entry: 1
+      Data: So honest... And such a beautiful personality... I'm in love.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: preferences
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Cool!
+    - Name: $v
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Nautical!
+    - Name: $v
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Flowery!
+    - Name: $v
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Clean!
+    - Name: $v
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  noMatchText: Guess this young sea sock's gonna keep on floating on their own!
+  sock: {fileID: 21300000, guid: fb6a6f984db238c4b91b38299663b6cf, type: 3}
+  Candidats:
+  - chaussette: {fileID: 11400000, guid: 2cdb3ef3256846e4293beb304e220011, type: 2}
+    love: 90
+    matchText: Oohh, look at him. An adventurer by my own heart.
+  - chaussette: {fileID: 11400000, guid: c07c065b7d9fe1f4ab395a6636a62675, type: 2}
+    love: 70
+    matchText: What an absolutely fabulous piece of fabric... Dazzling.
+  - chaussette: {fileID: 11400000, guid: a35ab9cc6579492479d0ec2231e9273e, type: 2}
+    love: 40
+    matchText: Hmm. I'm not sure... But they are strong of character.
+  - chaussette: {fileID: 11400000, guid: cba3864ccf8e6bf4ea3010a030b67ea6, type: 2}
+    love: 100
+    matchText: OH MY FEET! What a gorgeous, incredibly cool, wonderful sock!
+  - chaussette: {fileID: 11400000, guid: 46848c823423c2048a7e97f321e8b521, type: 2}
+    love: 80
+    matchText: So honest... And such a beautiful personality... I'm in love.
+  tellMeMore:
+  - What's it yer lookin at?
+  - D'you know what th'best treasure is? Shinyyy!
+  - Ain't nothing better than a fab sock.
+  - I want a sock who knows how t'have fun!
+  - Ne'er let life getcha down! 's too short for that!
+  - My favoritest thing's a good surprise!!
+  - Diamonds and gold, ne'er get old!
+  - But ya know, th'real treasure's the friends we make.
+  - Prefer th'road to tha destination, aye?
+  - Know to wander and keep an open heart!

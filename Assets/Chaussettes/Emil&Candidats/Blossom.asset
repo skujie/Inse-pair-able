@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Blossom
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: Huhh, I dunno. I just... Do my own shit.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: Yeah. I'm made of flowers and love, bish.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: Feeling aight. I think I'll make it worth their while ;)
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: I'd love to make it work. They're cute.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: Huh, wherever. Just... Not the fucking forest again.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: Nice, big, fat boots. NO sandals. NOT barefoot. Stop.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Ughhhhhhhh. All the smells, all the time... Fuck this.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: FALL. STOP WITH SPRING IT'S FUCKING OVERRATED.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: I don't care. Just leave me in the drawers to vibe.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: UGH. Favorite way to be drenched and squished?? NO.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: Jee willikers mister, you won't catch me dead in there.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: Kinda? Hugs are nice I guess.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: ac3a13711a9e09247b024cbf8ddaa7c3, type: 3}
+  introSpeech: Yo. Sup? I'm blossom.
+  matchReaction: Yeaaaah. Well... That's pretty cool, I guess.
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: Huhh, I dunno. I just... Do my own shit.
+  - question: Can you describe yourself?
+    answerText: Yeah. I'm made of flowers and love, bish.
+  - question: How are you feeling about this?
+    answerText: Feeling aight. I think I'll make it worth their while ;)
+  - question: What do you think about your match?
+    answerText: I'd love to make it work. They're cute.
+  - question: Where do you like to go the most?
+    answerText: Huh, wherever. Just... Not the fucking forest again.
+  - question: What are your favorite shoes?
+    answerText: Nice, big, fat boots. NO sandals. NOT barefoot. Stop.
+  - question: Are you bothered by the smells?
+    answerText: Ughhhhhhhh. All the smells, all the time... Fuck this.
+  - question: What's your favorite season?
+    answerText: FALL. STOP WITH SPRING IT'S FUCKING OVERRATED.
+  - question: Folded or rolled up?
+    answerText: I don't care. Just leave me in the drawers to vibe.
+  - question: Favorite washing machine settings?
+    answerText: UGH. Favorite way to be drenched and squished?? NO.
+  - question: Are you OK about hugging in the tumbler?
+    answerText: Jee willikers mister, you won't catch me dead in there.
+  - question: How cuddly are you?
+    answerText: Kinda? Hugs are nice I guess.

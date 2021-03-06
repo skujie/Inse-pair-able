@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Meli
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: Staying at home by the fireplace!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: Um... I'm kind of like a housecat?
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: Really stressed out... They seems nice though.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: I like their bowtie, we're matched :3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: Somewhere indoors...
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: I like ballerinas, they're pretty :3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Kinda yeah... Sorry...
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: Winter, it's the coziest season :3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: Rolled up feels really nice...
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: Anything not too hot...
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: Oh, yeah, it helps de-stress me.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: A lot!!?? A whole lot!!!???
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: 9a1fc8444ccce3449b5fc5f927ce9d87, type: 3}
+  introSpeech: Hi... I hope I'm not bothering you...
+  matchReaction: Oh! Really?? Ooh, I'm sooo happy, thanks! <3
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: Staying at home by the fireplace!
+  - question: Can you describe yourself?
+    answerText: Um... I'm kind of like a housecat?
+  - question: How are you feeling about this?
+    answerText: Really stressed out... They seems nice though.
+  - question: What do you think about your match?
+    answerText: I like their bowtie, we're matched :3
+  - question: Where do you like to go the most?
+    answerText: Somewhere indoors...
+  - question: What are your favorite shoes?
+    answerText: I like ballerinas, they're pretty :3
+  - question: Are you bothered by the smells?
+    answerText: Kinda yeah... Sorry...
+  - question: What's your favorite season?
+    answerText: Winter, it's the coziest season :3
+  - question: Folded or rolled up?
+    answerText: Rolled up feels really nice...
+  - question: Favorite washing machine settings?
+    answerText: Anything not too hot...
+  - question: Are you OK about hugging in the tumbler?
+    answerText: Oh, yeah, it helps de-stress me.
+  - question: How cuddly are you?
+    answerText: A lot!!?? A whole lot!!!???

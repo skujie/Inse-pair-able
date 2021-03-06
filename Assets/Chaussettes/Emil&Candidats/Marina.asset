@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Marina
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: Splash around in water or walk in the sand!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: Sure. I'm a go-getter! The world is my fishbowl!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: Pretty confident. Shouldn't I be? ;)
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: I think it's gonna go swimmingly between us ;)
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: The beach, of course! Coolest place there is!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: Sandals or none :)
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Not really. Usually, the sea breeze covers the smell.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: I'd say summer, but when it's too hot they leave me in the drawer :(
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: Anything is fine! I don't really care.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: Anything is good, I looove the washing-machine!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: Oh yeah! The more, the merrier, right?!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: Mmmh, I'd say I'm kinda middle of the road.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: c8404a19aa6c8bf418214ee44d2bcb2a, type: 3}
+  introSpeech: Helloooooooo gorgeous. Name's Marina ;)
+  matchReaction: Ohh yeah! We gonna make a hell of a splash!
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: Splash around in water or walk in the sand!
+  - question: Can you describe yourself?
+    answerText: Sure. I'm a go-getter! The world is my fishbowl!
+  - question: How are you feeling about this?
+    answerText: Pretty confident. Shouldn't I be? ;)
+  - question: What do you think about your match?
+    answerText: I think it's gonna go swimmingly between us ;)
+  - question: Where do you like to go the most?
+    answerText: The beach, of course! Coolest place there is!
+  - question: What are your favorite shoes?
+    answerText: Sandals or none :)
+  - question: Are you bothered by the smells?
+    answerText: Not really. Usually, the sea breeze covers the smell.
+  - question: What's your favorite season?
+    answerText: I'd say summer, but when it's too hot they leave me in the drawer
+      :(
+  - question: Folded or rolled up?
+    answerText: Anything is fine! I don't really care.
+  - question: Favorite washing machine settings?
+    answerText: Anything is good, I looove the washing-machine!
+  - question: Are you OK about hugging in the tumbler?
+    answerText: Oh yeah! The more, the merrier, right?!
+  - question: How cuddly are you?
+    answerText: Mmmh, I'd say I'm kinda middle of the road.

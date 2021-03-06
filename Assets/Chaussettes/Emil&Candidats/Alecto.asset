@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Alecto
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: I like to take contemplative walks by moonlight.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: I am quite old. Sort of a gentlesock, if I dare!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: I am always on the lookout for something new.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: Our pirate friend here looks like a daredevil. I like.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: Old stone, wooden floors in quiet manors, moonlit glades...
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: Something refined. Black boots, maybe, or high heels.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Why, yes, of course. I despise them with every fiber of me.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: The hunting season. Kidding, of course! It's fall.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: Hanging upside down, really. It's the most comfortable.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: Very soft, never above twenty degree celsius.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: Why, yes. I love hugs. I give lovebites sometimes, though.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: Very... Luckily, other socks seem to find me irresistible.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: 29ccfd5da2a39054dbff37025f29d34c, type: 3}
+  introSpeech: Greetings. I have been blessed with the name Alecto.
+  matchReaction: Oh, we're going to be wonderful together ;)
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: I like to take contemplative walks by moonlight.
+  - question: Can you describe yourself?
+    answerText: I am quite old. Sort of a gentlesock, if I dare!
+  - question: How are you feeling about this?
+    answerText: I am always on the lookout for something new.
+  - question: What do you think about your match?
+    answerText: Our pirate friend here looks like a daredevil. I like.
+  - question: Where do you like to go the most?
+    answerText: Old stone, wooden floors in quiet manors, moonlit glades...
+  - question: What are your favorite shoes?
+    answerText: Something refined. Black boots, maybe, or high heels.
+  - question: Are you bothered by the smells?
+    answerText: Why, yes, of course. I despise them with every fiber of me.
+  - question: What's your favorite season?
+    answerText: The hunting season. Kidding, of course! It's fall.
+  - question: Folded or rolled up?
+    answerText: Hanging upside down, really. It's the most comfortable.
+  - question: Favorite washing machine settings?
+    answerText: Very soft, never above twenty degree celsius.
+  - question: Are you OK about hugging in the tumbler?
+    answerText: Why, yes. I love hugs. I give lovebites sometimes, though.
+  - question: How cuddly are you?
+    answerText: Very... Luckily, other socks seem to find me irresistible.

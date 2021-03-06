@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f6e079fc34165d4d87405035ef61093, type: 3}
+  m_Name: Jorge (Single)
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 71de071d61f90f74288986ed37ecc8f6, type: 2}
+    - {fileID: 11400000, guid: 660373440ed23e94e8c019cd7c130701, type: 2}
+    - {fileID: 11400000, guid: 9ce7b1a9b5fefa6459af405ed7e3401a, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Candidats
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[loveCandidate, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 0
+    - Name: love
+      Entry: 3
+      Data: 50
+    - Name: matchText
+      Entry: 1
+      Data: I'll give him a chance, I guess.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 1
+    - Name: love
+      Entry: 3
+      Data: 100
+    - Name: matchText
+      Entry: 1
+      Data: Look at them!! Oh my sheep!! I'm in love!!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: loveCandidate, Assembly-CSharp
+    - Name: chaussette
+      Entry: 10
+      Data: 2
+    - Name: love
+      Entry: 3
+      Data: 5
+    - Name: matchText
+      Entry: 1
+      Data: Hmmm... Are you really sure??
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: preferences
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Cuteness!
+    - Name: $v
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Long socks
+    - Name: $v
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Spots!
+    - Name: $v
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Too serious :(
+    - Name: $v
+      Entry: 3
+      Data: -2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  noMatchText: Guess I'll find my match some other day... :C
+  sock: {fileID: 21300000, guid: 4a5f7156618af014586b9111e197de78, type: 3}
+  Candidats:
+  - chaussette: {fileID: 11400000, guid: 71de071d61f90f74288986ed37ecc8f6, type: 2}
+    love: 50
+    matchText: I'll give him a chance, I guess.
+  - chaussette: {fileID: 11400000, guid: 660373440ed23e94e8c019cd7c130701, type: 2}
+    love: 100
+    matchText: Look at them!! Oh my sheep!! I'm in love!!
+  - chaussette: {fileID: 11400000, guid: 9ce7b1a9b5fefa6459af405ed7e3401a, type: 2}
+    love: 5
+    matchText: Hmmm... Are you really sure??
+  tellMeMore:
+  - I really like dancing!
+  - I'm a little nervous...
+  - I hate too much heat :(
+  - '"I kinda need a lot of affection...'
+  - Do you think I'll find somesock cute?
+  - I'd really like a soft soft sock...
+  - I want somesock to hold me, you know?
+  - I like someone artsy, who smells good.

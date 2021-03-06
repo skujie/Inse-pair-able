@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Pearson
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: "Sit on a desk. Where I'm supposed to be.\t"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: Always be footing.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: Confident. Obviously.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: I hope I can convince them.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: The office, naturally. Or the opera, sometimes.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: Moccasins, what else?
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Not at all. It's part of the job, of course.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: I don't really care about seasons.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: Folded, please. I enjoy feeling crisp.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: Delicate, thank you. I need to look my best.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: That would be quite unprofessional, I'm afraid.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: Cuddles? Ahem. Occasionally, yes.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: a2a55eb8da9578f4280bc8f3caa2230d, type: 3}
+  introSpeech: Hello. Pearson, business sock. Pleased to meet you.
+  matchReaction: Yes! Yes! I mean, obviously.
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: "Sit on a desk. Where I'm supposed to be.\t"
+  - question: Can you describe yourself?
+    answerText: Always be footing.
+  - question: How are you feeling about this?
+    answerText: Confident. Obviously.
+  - question: What do you think about your match?
+    answerText: I hope I can convince them.
+  - question: Where do you like to go the most?
+    answerText: The office, naturally. Or the opera, sometimes.
+  - question: What are your favorite shoes?
+    answerText: Moccasins, what else?
+  - question: Are you bothered by the smells?
+    answerText: Not at all. It's part of the job, of course.
+  - question: What's your favorite season?
+    answerText: I don't really care about seasons.
+  - question: Folded or rolled up?
+    answerText: Folded, please. I enjoy feeling crisp.
+  - question: Favorite washing machine settings?
+    answerText: Delicate, thank you. I need to look my best.
+  - question: Are you OK about hugging in the tumbler?
+    answerText: That would be quite unprofessional, I'm afraid.
+  - question: How cuddly are you?
+    answerText: Cuddles? Ahem. Occasionally, yes.

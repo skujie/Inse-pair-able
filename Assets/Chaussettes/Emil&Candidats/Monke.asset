@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6081468c3edbdbd4ab757e308841b71d, type: 3}
+  m_Name: Monke
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Answers
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[answer, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your fav thing to do?
+    - Name: answerText
+      Entry: 1
+      Data: Ook ook oook ook ook!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Can you describe yourself?
+    - Name: answerText
+      Entry: 1
+      Data: OOok. Oook, ook ook... Oook ook, oook aahha hhaaaa.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How are you feeling about this?
+    - Name: answerText
+      Entry: 1
+      Data: OOOKKK OOk OOOKK oOOOOK!!
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What do you think about your match?
+    - Name: answerText
+      Entry: 1
+      Data: Ook ooook oooooook ;) ;) <3 :D u_u
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Where do you like to go the most?
+    - Name: answerText
+      Entry: 1
+      Data: Ookkk ooooook oook ook ;) ;) <3 <3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What are your favorite shoes?
+    - Name: answerText
+      Entry: 1
+      Data: Ook?? Ook ook. :/ :/ :/ :C :C :C
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you bothered by the smells?
+    - Name: answerText
+      Entry: 1
+      Data: Ook????? Ook. Ook ook ook :P :P
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: What's your favorite season?
+    - Name: answerText
+      Entry: 1
+      Data: Oooook!! Ooook ook oook ahhahh aaah hhaaa. u_u
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Folded or rolled up?
+    - Name: answerText
+      Entry: 1
+      Data: 'Ook. D:'
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Favorite washing machine settings?
+    - Name: answerText
+      Entry: 1
+      Data: 'Ooooooook :S :S :S D: D: D:'
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: Are you OK about hugging in the tumbler?
+    - Name: answerText
+      Entry: 1
+      Data: Oook OooKK OOOK OOOOK Hhaa Hhaaa ahAAAAh!! <3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: answer, Assembly-CSharp
+    - Name: question
+      Entry: 1
+      Data: How cuddly are you?
+    - Name: answerText
+      Entry: 1
+      Data: Ook ook ook ook ook ook ook ook ook <3 <3 <3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  refQuestions: {fileID: 11400000, guid: ef4a782b490b55a4db329db80a8fd090, type: 2}
+  sock: {fileID: 21300000, guid: 6b94a41f3a255a9459a3d01509fd02d5, type: 3}
+  introSpeech: Ook ook oooook :) :) :) :)
+  matchReaction: OOOK OOOK OOK OOK <3
+  Answers:
+  - question: What's your fav thing to do?
+    answerText: Ook ook oook ook ook!
+  - question: Can you describe yourself?
+    answerText: OOok. Oook, ook ook... Oook ook, oook aahha hhaaaa.
+  - question: How are you feeling about this?
+    answerText: OOOKKK OOk OOOKK oOOOOK!!
+  - question: What do you think about your match?
+    answerText: Ook ooook oooooook ;) ;) <3 :D u_u
+  - question: Where do you like to go the most?
+    answerText: Ookkk ooooook oook ook ;) ;) <3 <3
+  - question: What are your favorite shoes?
+    answerText: Ook?? Ook ook. :/ :/ :/ :C :C :C
+  - question: Are you bothered by the smells?
+    answerText: Ook????? Ook. Ook ook ook :P :P
+  - question: What's your favorite season?
+    answerText: Oooook!! Ooook ook oook ahhahh aaah hhaaa. u_u
+  - question: Folded or rolled up?
+    answerText: 'Ook. D:'
+  - question: Favorite washing machine settings?
+    answerText: 'Ooooooook :S :S :S D: D: D:'
+  - question: Are you OK about hugging in the tumbler?
+    answerText: Oook OooKK OOOK OOOOK Hhaa Hhaaa ahAAAAh!! <3
+  - question: How cuddly are you?
+    answerText: Ook ook ook ook ook ook ook ook ook <3 <3 <3

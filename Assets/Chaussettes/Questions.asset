@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d118ecbca960a54cb3fd3fc9e1952fe, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  questions:
+  - What's your fav thing to do?
+  - Can you describe yourself?
+  - How are you feeling about this?
+  - What do you think about your match?
+  - Where do you like to go the most?
+  - What are your favorite shoes?
+  - Are you bothered by the smells?
+  - What's your favorite season?
+  - Folded or rolled up?
+  - Favorite washing machine settings?
+  - Are you OK about hugging in the tumbler?
+  - How cuddly are you?
